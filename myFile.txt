@@ -1,0 +1,3 @@
+Hello! This file will be read for the encryption/decryption process of this program. 
+
+My name is Sahibjot Chandla and I love dogs!
